@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-%2300A1E0.svg?style=for-the-badge&logo=servicenow&logoColor=white)
 
 # 📊 GitHub Status:
-![](https://github-readme-stats.vercel.app/api?username=sdpprasad&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sdpprasad&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sdpprasad&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/><!--
+![](https://github-readme-streak-stats.herokuapp.com/?user=sdpprasad&theme=radical&hide_border=false)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sdpprasad&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
